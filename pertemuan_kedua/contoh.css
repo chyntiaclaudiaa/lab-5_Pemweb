@@ -1,0 +1,35 @@
+*{
+    color: rgb(19, 29, 38);
+}
+
+#tombol-login{
+    color: rgb(64, 80, 201);
+}
+
+.kotak{
+    color:black;
+}
+
+a[title="fasilkom-ti"]{
+    color: aquamarine;
+}
+
+div p{
+    color: blue; /*descendnt itu seluaruh di p*/
+}
+
+.containter > p{
+    color: blueviolet;
+}
+
+.box-model {
+    background-color:aliceblue;
+    width: 300;
+    padding: 50 px;
+    margin: 15 px;
+    border:bisque;
+}
+
+/* div > p {
+
+} */
